@@ -9,4 +9,6 @@ The Python System Assistance Tool is a comprehensive application designed to mon
 * **System Updates:** Fetches and displays system update information, including the status of various updates.
 * **Disk Usage Information:** Displays detailed disk usage information for each partition, including total, used, and free space, with a visual representation using bar charts.
 * **Security Information:** Fetches and displays information about antivirus status, firewall status, and open ports.
+
+* 
 ![image](https://github.com/user-attachments/assets/66eab327-e1df-44db-98cb-49cc75946dfa)
